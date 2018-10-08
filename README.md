@@ -1,4 +1,4 @@
-# ABI-Mbanking-BackOffice #
+# Example combine laravel with reactJS #
 
 Built with:
 * webpack
