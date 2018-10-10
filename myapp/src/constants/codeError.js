@@ -1,0 +1,5 @@
+const CODE_ERROR = {
+    ERROR_CHANGING_EMAIL: 'ERROR_CHANGING_EMAIL',
+};
+
+export default CODE_ERROR;

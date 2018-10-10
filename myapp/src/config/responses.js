@@ -1,0 +1,11 @@
+const  TYPES_RESPONSES = {
+    REQUESTED: "REQUESTED",
+    SUCCESS: "SUCCESS",
+    ERROR: "ERROR",
+    TIMEOUT: "TIMEOUT",
+};
+
+export {
+    TYPES_RESPONSES
+};
+

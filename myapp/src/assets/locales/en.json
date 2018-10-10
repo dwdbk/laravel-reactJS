@@ -1,0 +1,8 @@
+{
+  "translations": {
+    "clients": {
+      "title": "Page Clients",
+      "msg_get_list_error": "Sorry something went wrong, please try again later..."
+    }
+  }
+}
